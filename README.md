@@ -1,2 +1,2 @@
 # oatpp-nixos-feed
-Oat++ for NixOS
+Oat++ patches for NixOS
